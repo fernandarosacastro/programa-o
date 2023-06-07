@@ -1,0 +1,22 @@
+Os formatos proprietários representam a privatização da memória digital. Arquivos salvos em formatos abertos são arquivos que seguem padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos.
+Exemplos de formatos proprietários:
+DWG - AutoCad Drawing
+SWF - Shockwave Flash
+DOC - formato proprietário de texto
+PPT - formato proprietário de apresentação de slides
+
+lista dos formatos abertos disponíveis para serem utilizados em diversos tipos de Recursos Educacionais.
+
+Tipos              	Formatos
+Texto	              .odt
+Planilha	          .ods
+Apresentação	      .odp
+Áudio	              .mp3, .FLAC, .ogg
+Vídeos	            .mkv, .webM, .mp4(codec x264)
+Webpage            	HTML5
+e-book	            epub
+Fórmula Matemática	MathML
+Imagens	            PNG, SVG
+
+Implicações relacionadas a dados públicos
+Os dados públicos devem ser tratados considerando a finalidade, a boa-fé e o interesse público que justificaram a sua disponibilização. A LGPD define, por exemplo, que uma organização pode, sem precisar pedir novo consentimento, tratar dados tornados anterior e manifestamente públicos pelo titular. Porém, se uma organização quiser compartilhar esses dados com outras, aí ela deverá obter outro consentimento para esse fim - resguardadas as hipóteses de dispensa previstas na lei. A LGPD também se relaciona com a Lei de Acesso à Informação (LAI) e com princípios constitucionais, como o de que “todos têm direito a receber dos órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado”.
