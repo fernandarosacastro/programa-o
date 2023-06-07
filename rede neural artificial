@@ -1,0 +1,15 @@
+Redes Neurais Artificiais são técnicas computacionais que apresentam um modelo matemático inspirado na estrutura neural de organismos inteligentes e que adquirem conhecimento através da experiência. Uma grande rede neural artificial pode ter centenas ou milhares de unidades de processamento; já o cérebro de um mamífero pode ter muitos bilhões de neurônios.
+O sistema nervoso é formado por um conjunto extremamente complexo de células, os neurônios. Eles têm um papel essencial na determinação do funcionamento e comportamento do corpo humano e do raciocínio. Os neurônios são formados pelos dendritos, que são um conjunto de terminais de entrada, pelo corpo central, e pelos axônios que são longos terminais de saída.
+É um tipo de processo de machine learning, chamado aprendizado profundo, que usa nós ou neurônios interconectados em uma estrutura em camadas, semelhante ao cérebro humano. A rede neural cria um sistema adaptativo que os computadores usam para aprender com os erros e se aprimorar continuamente. As redes neurais artificiais tentam solucionar problemas complicados, como resumir documentos ou reconhecer rostos com grande precisão.
+As redes neurais têm vários casos de uso em diferentes setores, como:
+
+Diagnóstico médico feito pela classificação de imagens
+Marketing direcionado pela filtragem de mídia social e análise de dados comportamentais
+Previsões financeiras feitas pelo processamento de dados históricos de instrumentos financeiros
+Previsões de demanda de energia e carga elétrica
+Processo e controle de qualidade
+Identificação de compostos químicos
+
+referências:
+https://sites.icmc.usp.br/andre/research/neural/
+https://aws.amazon.com/pt/what-is/neural-network/
