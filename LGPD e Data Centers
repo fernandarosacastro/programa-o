@@ -1,0 +1,17 @@
+Data Centers consistem em um conjunto de equipamentos utilizados por uma organização para o processamento e armazenamento de dados, sistemas e aplicações. Essa estrutura geralmente reúne servidores, bancos de dados informatizados e componentes auxiliares, como storages e ativos de rede (switches e roteadores). Atualmente, há diversos modelos de hospedagem desses equipamentos dos Centros de Processamentos de Dados
+Uma das funções mais importantes de um Data Center é assegurar que os dados e sistemas hospedados nele possam ser acessados a qualquer momento. Por isso, a infraestrutura de rede não pode ficar inoperante em razão de um problema de link de internet, por exemplo.
+Desse modo, o gestor da estrutura na qual estão hospedados os servidores precisa oferecer conexões redundantes, com mais de um fornecedor de rede.
+Então, considerando-se que o Data Center do controlador é o local onde rodam os sistemas nos quais são instalados e mantidos os dados, é essa a estrutura que deve, prioritariamente, operar com base nos preceitos da LGPD.
+alguns requisitos são fundamentais para assegurar as condições de segurança e as premissas da LGPD para Data Centers:
+
+Mapeamento de quais dados são tratados, por quais áreas e com qual finalidade;
+Atualização de softwares e sistemas de controle de hardware 
+Monitoramento frequente de recursos
+Política de controle de acesso
+Práticas de controle de acesso físico
+Restrição de acesso a recursos virtuais, como arquivos e sistemas de gestão
+Divulgação e treinamento dos colaboradores com relação às boas práticas de TI
+Garantia de que a informação, mesmo manipulada, mantenha seu conteúdo e suas características originais;
+Disponibilidade, ao manter a informação sempre disponível para uso legítimo.
+
+A estrutura do controlador do Data Center é o local onde rodam o sistema e a rede de dados é instalada e mantida. É este lugar que deve operar com base nos preceitos da LGPD. É importante frisar que apesar de não atuar diretamente no processamento de dados dos usuários e de não exercer a responsabilidade sobre tais informações, cabe aos Data Centers, garantir a proteção física dos ambientes para que a gestão das informações seja segura.
